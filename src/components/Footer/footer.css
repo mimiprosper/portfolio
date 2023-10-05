@@ -1,0 +1,10 @@
+.footer{
+    padding: 2rem;
+    background: rgb(40, 40, 40);
+    text-align: center;
+    font-weight: 400;
+}
+
+@media(max-width:480px){
+    
+}
